@@ -1,0 +1,538 @@
+spectrogram_path,label,xmin,ymin,xmax,ymax
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB10-040717-222225_second_240_to_300.png,D,406,83,447,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB10-040717-222225_second_270_to_330.png,D,106,83,146,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB17-040719-205000_second_90_to_150.png,D,431,67,471,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB17-040719-205000_second_120_to_180.png,D,131,67,171,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB2-040713-235000_second_180_to_240.png,D,338,77,372,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB2-040713-235000_second_210_to_270.png,D,37,77,72,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB2-040714-000000_second_120_to_180.png,D,410,87,441,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB2-040714-000000_second_150_to_210.png,D,110,87,141,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB2-040714-011000_second_30_to_90.png,D,444,78,479,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB2-040714-011000_second_60_to_120.png,D,143,78,178,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB26-040724-135000_second_180_to_240.png,D,305,59,356,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB26-040724-135000_second_210_to_270.png,D,5,59,55,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB26-040724-140000_second_90_to_150.png,D,337,67,385,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB26-040724-140000_second_120_to_180.png,D,36,67,84,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB9-040717-165000_second_0_to_60.png,D,292,79,329,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB9-040717-174000_second_0_to_60.png,D,315,70,344,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB9-040717-174000_second_30_to_90.png,D,15,70,43,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB9-040717-180000_second_60_to_120.png,D,473,75,510,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0407-SB9-040717-180000_second_90_to_150.png,D,173,75,210,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB02-060709-015107_second_30_to_90.png,40Hz,339,72,359,93
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB02-060709-015107_second_60_to_120.png,40Hz,39,72,59,93
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_30_to_90.png,D,351,88,382,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_30_to_90.png,D,421,87,471,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_30_to_90.png,D,421,87,471,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_60_to_120.png,D,50,88,81,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_60_to_120.png,D,120,87,171,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_60_to_120.png,D,120,87,171,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_60_to_120.png,D,287,70,344,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_90_to_150.png,D,405,64,453,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_120_to_180.png,D,104,64,152,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_120_to_180.png,D,371,78,424,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_120_to_180.png,D,371,78,424,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_150_to_210.png,D,71,78,124,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_150_to_210.png,D,71,78,124,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_150_to_210.png,D,475,75,541,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_150_to_210.png,D,475,75,541,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_180_to_240.png,D,175,75,240,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_180_to_240.png,D,175,75,240,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_180_to_240.png,D,396,76,462,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_210_to_270.png,D,96,76,162,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_270_to_330.png,D,312,80,369,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_300_to_360.png,D,11,80,68,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_300_to_360.png,D,338,79,383,107
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_300_to_360.png,D,338,79,383,107
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_330_to_390.png,D,37,79,82,107
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_330_to_390.png,D,37,79,82,107
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_360_to_420.png,D,382,81,432,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-140000_second_390_to_450.png,D,81,81,132,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-142000_second_0_to_60.png,D,103,78,133,106
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-142000_second_0_to_60.png,D,103,78,133,106
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-152000_second_300_to_360.png,D,305,90,345,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB03-060709-152000_second_330_to_390.png,D,5,90,45,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_30_to_90.png,D,357,83,393,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_30_to_90.png,D,357,83,393,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_60_to_120.png,D,56,83,92,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_60_to_120.png,D,56,83,92,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_60_to_120.png,D,479,69,525,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_60_to_120.png,D,479,69,525,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_90_to_150.png,D,178,69,225,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_90_to_150.png,D,178,69,225,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_180_to_240.png,40Hz,476,60,498,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-184405_second_210_to_270.png,40Hz,176,60,198,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-190000_second_180_to_240.png,D,515,94,549,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-190000_second_180_to_240.png,D,515,94,549,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-190000_second_210_to_270.png,D,215,94,248,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-190000_second_210_to_270.png,D,215,94,248,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-191000_second_390_to_450.png,D,556,88,590,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-191000_second_390_to_450.png,D,556,88,590,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-191000_second_420_to_480.png,D,256,88,290,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-191000_second_420_to_480.png,D,256,88,290,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-191000_second_450_to_510.png,D,286,94,312,116
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_90_to_150.png,D,461,86,493,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_90_to_150.png,D,461,86,493,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_120_to_180.png,D,161,86,193,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_120_to_180.png,D,161,86,193,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_150_to_210.png,D,295,82,333,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_180_to_240.png,D,297,80,322,106
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_270_to_330.png,D,506,83,532,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_270_to_330.png,D,506,83,532,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_300_to_360.png,D,205,83,231,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-193000_second_300_to_360.png,D,205,83,231,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-194000_second_510_to_570.png,D,275,88,308,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-195000_second_30_to_90.png,D,462,88,521,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-195000_second_60_to_120.png,D,162,88,221,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-195000_second_90_to_150.png,D,316,81,362,118
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB04-060709-195000_second_120_to_180.png,D,15,81,62,118
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB05-060709-231000_second_180_to_240.png,D,360,77,403,118
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB05-060709-231000_second_210_to_270.png,D,59,77,103,118
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB05-060709-232000_second_300_to_360.png,D,391,80,427,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB05-060709-232000_second_330_to_390.png,D,90,80,126,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_270_to_330.png,40Hz,529,101,543,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_300_to_360.png,40Hz,228,101,243,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_420_to_480.png,40Hz,293,85,308,111
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_420_to_480.png,40Hz,327,85,350,111
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_420_to_480.png,40Hz,366,91,388,111
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_420_to_480.png,40Hz,366,96,388,110
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_420_to_480.png,40Hz,535,91,556,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_420_to_480.png,40Hz,536,97,555,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_450_to_510.png,40Hz,27,85,50,111
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_450_to_510.png,40Hz,66,91,87,111
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_450_to_510.png,40Hz,66,96,88,110
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_450_to_510.png,40Hz,235,91,256,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-014000_second_450_to_510.png,40Hz,236,97,255,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_60_to_120.png,40Hz,417,92,436,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_60_to_120.png,40Hz,500,115,520,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_60_to_120.png,40Hz,529,107,550,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_60_to_120.png,40Hz,552,98,575,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_60_to_120.png,40Hz,552,98,575,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,117,92,135,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,199,115,220,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,228,107,250,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,252,98,275,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,252,98,275,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,319,100,342,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,352,86,372,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_90_to_150.png,40Hz,365,88,380,109
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_120_to_180.png,40Hz,18,100,41,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_120_to_180.png,40Hz,52,86,71,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_120_to_180.png,40Hz,65,88,79,109
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_240_to_300.png,40Hz,329,93,353,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_240_to_300.png,40Hz,329,93,353,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_240_to_300.png,40Hz,358,90,373,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_270_to_330.png,40Hz,28,93,53,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_270_to_330.png,40Hz,28,93,53,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_270_to_330.png,40Hz,57,90,72,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_330_to_390.png,40Hz,314,98,336,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_330_to_390.png,40Hz,377,98,394,116
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_330_to_390.png,40Hz,413,92,427,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_330_to_390.png,40Hz,505,102,526,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_330_to_390.png,40Hz,547,96,567,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_330_to_390.png,20Hz,464,121,485,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_330_to_390.png,20Hz,464,121,485,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,13,98,36,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,77,98,94,116
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,112,92,127,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,205,102,225,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,247,96,266,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,299,93,316,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,380,103,402,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,412,86,429,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,439,101,463,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,474,105,493,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,40Hz,474,105,493,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,20Hz,164,121,184,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_360_to_420.png,20Hz,164,121,184,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_390_to_450.png,40Hz,79,103,102,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_390_to_450.png,40Hz,111,86,128,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_390_to_450.png,40Hz,138,101,162,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_390_to_450.png,40Hz,174,105,192,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_390_to_450.png,40Hz,174,105,192,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_420_to_480.png,40Hz,545,86,562,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_450_to_510.png,40Hz,244,86,261,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_450_to_510.png,40Hz,527,106,546,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_450_to_510.png,40Hz,527,106,546,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_480_to_540.png,40Hz,227,106,245,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_480_to_540.png,40Hz,227,106,245,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_480_to_540.png,40Hz,356,104,382,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB14-060714-015000_second_510_to_570.png,40Hz,56,104,81,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_210_to_270.png,D,441,89,499,116
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_240_to_300.png,D,141,89,199,116
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_300_to_360.png,D,557,87,597,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_330_to_390.png,D,256,87,297,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_390_to_450.png,D,483,93,517,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_420_to_480.png,D,183,93,217,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_480_to_540.png,D,321,88,362,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-174000_second_510_to_570.png,D,21,88,61,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_30_to_90.png,D,551,89,581,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_30_to_90.png,D,551,89,581,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_60_to_120.png,D,251,89,281,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_60_to_120.png,D,251,89,281,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_270_to_330.png,D,406,86,432,105
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_300_to_360.png,D,106,86,132,105
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_420_to_480.png,D,304,90,334,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_450_to_510.png,D,4,90,33,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-175000_second_480_to_540.png,D,274,87,307,106
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_0_to_60.png,D,374,106,410,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_30_to_90.png,D,73,106,109,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_30_to_90.png,D,494,86,532,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_60_to_120.png,D,194,86,231,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_60_to_120.png,D,572,107,595,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_90_to_150.png,D,271,107,295,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_510_to_570.png,D,398,88,436,116
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-180000_second_540_to_600.png,D,97,88,135,116
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-182000_second_0_to_60.png,D,262,79,316,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_90_to_150.png,D,454,99,489,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_90_to_150.png,D,535,87,569,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_120_to_180.png,D,153,99,188,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_120_to_180.png,D,234,87,268,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_120_to_180.png,D,294,88,317,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_390_to_450.png,D,467,82,507,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_420_to_480.png,D,166,82,206,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_420_to_480.png,D,396,82,435,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_450_to_510.png,D,95,82,134,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-184000_second_480_to_540.png,D,271,75,311,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-185000_second_210_to_270.png,D,320,84,353,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-185000_second_240_to_300.png,D,20,84,53,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-190000_second_180_to_240.png,D,454,75,528,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-190000_second_180_to_240.png,D,553,75,590,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-190000_second_210_to_270.png,D,153,75,228,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-190000_second_210_to_270.png,D,252,75,290,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-190000_second_210_to_270.png,D,305,74,336,108
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-190000_second_240_to_300.png,D,4,74,36,108
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_0_to_60.png,D,69,78,112,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_0_to_60.png,D,240,83,273,107
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_150_to_210.png,D,476,93,519,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_150_to_210.png,D,519,85,562,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_180_to_240.png,D,176,93,218,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_180_to_240.png,D,219,85,262,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_180_to_240.png,D,274,78,316,110
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_270_to_330.png,D,308,88,344,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_300_to_360.png,D,8,88,43,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_330_to_390.png,D,319,89,347,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_330_to_390.png,D,381,85,400,105
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_360_to_420.png,D,19,89,47,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_360_to_420.png,D,80,85,100,105
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_420_to_480.png,D,291,90,310,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_420_to_480.png,D,574,87,598,109
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_450_to_510.png,D,274,87,297,109
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_480_to_540.png,D,566,73,590,98
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0607-SB18-060715-191000_second_510_to_570.png,D,266,73,290,98
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB01-070629-170000_second_0_to_60.png,40Hz,183,71,202,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB01-070629-180000_second_30_to_90.png,40Hz,542,81,558,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB01-070629-180000_second_60_to_120.png,40Hz,242,81,257,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB01-070629-182000_second_0_to_60.png,20Hz,76,112,105,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB02-070629-211522_second_150_to_210.png,D,381,58,411,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB02-070629-211522_second_180_to_240.png,D,81,58,110,112
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB02-070629-212000_second_180_to_240.png,40Hz,387,78,404,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB02-070629-212000_second_210_to_270.png,40Hz,87,78,103,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB02-070629-220000_second_270_to_330.png,40Hz,314,67,327,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB02-070629-220000_second_300_to_360.png,40Hz,13,67,27,113
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB03-070630-014000_second_60_to_120.png,40Hz,343,87,356,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB03-070630-014000_second_90_to_150.png,40Hz,42,87,56,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB03-070630-021000_second_150_to_210.png,D,423,74,446,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB03-070630-021000_second_180_to_240.png,D,123,74,146,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB03-070630-030000_second_0_to_60.png,40Hz,296,73,318,105
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB03-070630-031000_second_150_to_210.png,D,444,71,486,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB03-070630-031000_second_180_to_240.png,D,144,71,185,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB04-070630-185000_second_180_to_240.png,D,374,64,407,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB04-070630-185000_second_210_to_270.png,D,74,64,107,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB04-070630-192000_second_30_to_90.png,D,514,79,542,118
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB04-070630-192000_second_60_to_120.png,D,213,79,241,118
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB08-070702-165000_second_0_to_60.png,D,400,54,437,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB08-070702-165000_second_30_to_90.png,D,99,54,136,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB08-070702-170000_second_210_to_270.png,D,287,43,311,103
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB09-070703-000000_second_180_to_240.png,D,373,74,400,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB09-070703-000000_second_210_to_270.png,D,73,74,99,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB10-070703-191000_second_120_to_180.png,D,288,75,339,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB10-070703-202000_second_150_to_210.png,D,454,69,505,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB10-070703-202000_second_180_to_240.png,D,153,69,204,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB10-070703-205000_second_0_to_60.png,40Hz,24,67,44,103
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB10-070703-211000_second_0_to_60.png,40Hz,464,78,499,110
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB10-070703-211000_second_30_to_90.png,40Hz,163,78,198,110
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB11-070704-003656_second_60_to_120.png,40Hz,415,73,440,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB11-070704-003656_second_90_to_150.png,40Hz,114,73,140,114
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB11-070704-010000_second_60_to_120.png,40Hz,462,71,491,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB11-070704-010000_second_90_to_150.png,40Hz,161,71,190,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB13-070704-191121_second_0_to_60.png,D,101,71,154,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB14-070705-000000_second_90_to_150.png,D,573,29,596,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB14-070705-000000_second_120_to_180.png,D,272,29,295,104
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB21-070709-154000_second_90_to_150.png,D,449,87,496,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB21-070709-154000_second_120_to_180.png,D,149,87,196,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB21-070709-162000_second_180_to_240.png,40Hz,291,88,308,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB24-070710-190000_second_90_to_150.png,40Hz,296,66,314,103
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB26-070711-202000_second_60_to_120.png,D,498,71,541,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0707-SB26-070711-202000_second_90_to_150.png,D,198,71,241,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_0_to_60.png,20Hz,29,124,49,137
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_0_to_60.png,40Hz,59,94,76,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_0_to_60.png,40Hz,472,104,488,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_0_to_60.png,40Hz,504,102,519,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_30_to_90.png,40Hz,171,104,188,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_30_to_90.png,40Hz,203,102,218,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_30_to_90.png,40Hz,414,100,428,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_60_to_120.png,40Hz,113,100,127,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_60_to_120.png,20Hz,340,119,363,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_90_to_150.png,20Hz,39,119,62,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_120_to_180.png,20Hz,328,118,349,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_120_to_180.png,40Hz,328,118,349,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_150_to_210.png,20Hz,28,118,48,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_150_to_210.png,40Hz,28,118,48,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_150_to_210.png,40Hz,469,75,487,102
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_150_to_210.png,40Hz,469,75,487,102
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_180_to_240.png,40Hz,168,75,187,102
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_180_to_240.png,40Hz,168,75,187,102
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_360_to_420.png,20Hz,391,121,409,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_360_to_420.png,20Hz,391,121,409,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_390_to_450.png,20Hz,90,121,108,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB09-071108-191000_second_390_to_450.png,20Hz,90,121,108,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-000000_second_60_to_120.png,20Hz,454,121,473,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-000000_second_90_to_150.png,20Hz,154,121,172,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-000000_second_150_to_210.png,40Hz,299,103,314,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-000000_second_150_to_210.png,40Hz,299,103,314,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-000000_second_300_to_360.png,20Hz,553,119,573,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-000000_second_330_to_390.png,20Hz,252,119,272,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_30_to_90.png,20Hz,435,119,458,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_60_to_120.png,20Hz,134,119,157,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_60_to_120.png,40Hz,424,107,442,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_90_to_150.png,40Hz,124,107,142,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_150_to_210.png,40Hz,459,97,478,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_150_to_210.png,40Hz,550,98,569,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_180_to_240.png,40Hz,158,97,177,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_180_to_240.png,40Hz,249,98,268,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_210_to_270.png,40Hz,480,93,503,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_210_to_270.png,40Hz,480,93,503,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_210_to_270.png,40Hz,551,96,570,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_240_to_300.png,40Hz,180,93,202,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_240_to_300.png,40Hz,180,93,202,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_240_to_300.png,40Hz,251,96,270,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_240_to_300.png,40Hz,379,107,398,137
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_270_to_330.png,40Hz,78,107,97,137
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_300_to_360.png,40Hz,380,107,400,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_330_to_390.png,40Hz,80,107,100,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_450_to_510.png,40Hz,361,90,382,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB10-071109-001000_second_480_to_540.png,40Hz,60,90,82,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_30_to_90.png,40Hz,280,80,302,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_30_to_90.png,40Hz,332,100,353,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_30_to_90.png,40Hz,435,102,455,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_30_to_90.png,40Hz,489,88,501,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_30_to_90.png,40Hz,539,98,558,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_60_to_120.png,40Hz,31,100,52,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_60_to_120.png,40Hz,134,102,155,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_60_to_120.png,40Hz,188,88,201,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_60_to_120.png,40Hz,239,98,258,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_60_to_120.png,40Hz,343,101,358,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_60_to_120.png,40Hz,449,133,450,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_90_to_150.png,40Hz,43,101,57,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_90_to_150.png,40Hz,148,133,149,133
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_90_to_150.png,40Hz,385,109,403,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_90_to_150.png,40Hz,385,109,403,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_90_to_150.png,40Hz,561,110,581,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_120_to_180.png,40Hz,85,109,102,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_120_to_180.png,40Hz,85,109,102,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_120_to_180.png,40Hz,261,110,280,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_120_to_180.png,40Hz,483,110,500,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_150_to_210.png,40Hz,183,110,199,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_150_to_210.png,40Hz,350,116,367,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_150_to_210.png,40Hz,350,116,367,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_180_to_240.png,40Hz,50,116,67,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_180_to_240.png,40Hz,50,116,67,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_180_to_240.png,40Hz,447,96,471,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_180_to_240.png,40Hz,511,105,531,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_210_to_270.png,40Hz,147,96,170,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_210_to_270.png,40Hz,210,105,231,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_210_to_270.png,40Hz,515,105,530,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_210_to_270.png,40Hz,515,105,530,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_210_to_270.png,40Hz,581,107,597,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_240_to_300.png,40Hz,214,105,230,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_240_to_300.png,40Hz,214,105,230,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_240_to_300.png,40Hz,280,107,297,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_390_to_450.png,40Hz,353,105,372,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_420_to_480.png,40Hz,53,105,71,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_450_to_510.png,40Hz,357,94,373,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_450_to_510.png,40Hz,494,104,512,135
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_480_to_540.png,40Hz,56,94,73,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_480_to_540.png,40Hz,193,104,211,135
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_480_to_540.png,40Hz,378,103,396,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_480_to_540.png,40Hz,378,103,396,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_480_to_540.png,40Hz,487,100,502,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_510_to_570.png,40Hz,77,103,96,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_510_to_570.png,40Hz,77,103,96,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-200000_second_510_to_570.png,40Hz,187,100,201,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_60_to_120.png,40Hz,524,105,542,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_90_to_150.png,40Hz,224,105,241,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_90_to_150.png,40Hz,330,108,348,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_90_to_150.png,40Hz,435,102,456,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,29,108,48,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,135,102,155,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,287,97,304,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,320,96,337,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,377,94,394,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,377,94,394,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,376,93,393,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,376,93,393,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_120_to_180.png,40Hz,434,102,452,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_150_to_210.png,40Hz,20,96,37,126
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_150_to_210.png,40Hz,77,94,93,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_150_to_210.png,40Hz,77,94,93,127
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_150_to_210.png,40Hz,75,93,92,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_150_to_210.png,40Hz,75,93,92,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_150_to_210.png,40Hz,134,102,152,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_210_to_270.png,40Hz,397,103,411,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_210_to_270.png,40Hz,457,91,473,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_210_to_270.png,40Hz,457,91,473,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_240_to_300.png,40Hz,96,103,110,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_240_to_300.png,40Hz,156,91,173,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_240_to_300.png,40Hz,156,91,173,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_270_to_330.png,40Hz,346,108,363,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_270_to_330.png,40Hz,446,97,461,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_270_to_330.png,40Hz,446,97,461,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_300_to_360.png,40Hz,46,108,62,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_300_to_360.png,40Hz,145,97,161,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_300_to_360.png,40Hz,145,97,161,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_330_to_390.png,40Hz,457,100,471,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_330_to_390.png,40Hz,457,100,471,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_360_to_420.png,40Hz,157,100,171,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_360_to_420.png,40Hz,157,100,171,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_450_to_510.png,40Hz,539,109,558,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_450_to_510.png,40Hz,539,109,558,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_480_to_540.png,40Hz,239,109,258,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_480_to_540.png,40Hz,239,109,258,131
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_480_to_540.png,40Hz,536,102,555,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB13-071110-201000_second_510_to_570.png,40Hz,235,102,254,132
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB21-071115-223000_second_60_to_120.png,20Hz,533,122,548,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC0711-SB21-071115-223000_second_90_to_150.png,20Hz,232,122,248,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_120_to_180.png,B NE Pacific,180,99,365,140
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_150_to_210.png,D,424,59,472,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_180_to_240.png,D,123,59,172,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_210_to_270.png,D,291,79,326,107
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_210_to_270.png,B NE Pacific,288,104,481,140
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_240_to_300.png,D,269,69,302,111
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_330_to_390.png,D,381,71,417,110
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1108_SB08_110728-204000_second_360_to_420.png,D,80,71,116,110
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB18_170110_190000_second_720_to_780.png,40Hz,473,84,487,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB18_170110_190000_second_750_to_810.png,40Hz,173,84,186,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB28_170112_200000_second_0_to_60.png,B NE Pacific,345,91,507,135
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB28_170112_200000_second_30_to_90.png,B NE Pacific,45,91,206,135
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB40_170116_020000_second_3000_to_3060.png,40Hz,452,82,465,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB40_170116_020000_second_3030_to_3090.png,40Hz,151,82,164,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB56_170119_183405_second_60_to_120.png,40Hz,399,80,412,98
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB56_170119_183405_second_90_to_150.png,40Hz,99,80,111,98
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB56_170119_183405_second_600_to_660.png,40Hz,445,81,459,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB56_170119_183405_second_630_to_690.png,40Hz,145,81,158,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB56_170119_183405_second_630_to_690.png,40Hz,474,83,487,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1701RL_CO_SB56_170119_183405_second_660_to_720.png,40Hz,174,83,187,101
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_134340_second_0_to_60.png,B NE Pacific,467,91,598,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_134340_second_30_to_90.png,B NE Pacific,166,91,298,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_134340_second_210_to_270.png,B NE Pacific,298,91,438,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_134340_second_750_to_810.png,B NE Pacific,278,85,399,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_140000_second_120_to_180.png,B NE Pacific,284,90,428,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_140000_second_720_to_780.png,B NE Pacific,374,92,512,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_140000_second_750_to_810.png,B NE Pacific,73,92,211,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_140000_second_870_to_930.png,B NE Pacific,472,90,598,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_140000_second_900_to_960.png,B NE Pacific,171,90,298,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_140000_second_1140_to_1200.png,B NE Pacific,411,86,542,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB02_170802_140000_second_1170_to_1230.png,B NE Pacific,110,86,242,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_60_to_120.png,B NE Pacific,325,93,451,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_90_to_150.png,B NE Pacific,24,93,150,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_570_to_630.png,B NE Pacific,254,93,376,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_1350_to_1410.png,B NE Pacific,473,93,598,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_1380_to_1440.png,B NE Pacific,172,93,297,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_1590_to_1650.png,B NE Pacific,198,94,311,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_1620_to_1680.png,B NE Pacific,443,93,553,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_1650_to_1710.png,B NE Pacific,142,93,253,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_1680_to_1740.png,B NE Pacific,386,94,520,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_222031_second_1710_to_1770.png,B NE Pacific,85,94,220,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_1800_to_1860.png,B NE Pacific,375,94,493,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_1830_to_1890.png,B NE Pacific,75,94,193,121
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_1860_to_1920.png,B NE Pacific,317,93,435,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_1890_to_1950.png,B NE Pacific,17,93,134,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_1920_to_1980.png,B NE Pacific,268,94,386,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2040_to_2100.png,B NE Pacific,385,93,502,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2070_to_2130.png,B NE Pacific,84,93,201,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2160_to_2220.png,B NE Pacific,285,93,411,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2310_to_2370.png,B NE Pacific,201,93,326,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2370_to_2430.png,B NE Pacific,182,93,350,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2580_to_2640.png,B NE Pacific,393,94,526,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2610_to_2670.png,B NE Pacific,92,94,226,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2640_to_2700.png,B NE Pacific,398,93,514,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2670_to_2730.png,B NE Pacific,98,93,213,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2700_to_2760.png,B NE Pacific,360,94,476,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2730_to_2790.png,B NE Pacific,59,94,176,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2760_to_2820.png,B NE Pacific,329,94,445,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2790_to_2850.png,B NE Pacific,28,94,144,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2820_to_2880.png,B NE Pacific,297,94,416,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2880_to_2940.png,B NE Pacific,256,95,398,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_2940_to_3000.png,B NE Pacific,207,94,316,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_3060_to_3120.png,B NE Pacific,408,94,514,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_3090_to_3150.png,B NE Pacific,107,94,213,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_3120_to_3180.png,B NE Pacific,371,94,486,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_3150_to_3210.png,B NE Pacific,70,94,186,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_3180_to_3240.png,B NE Pacific,321,93,442,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_3210_to_3270.png,B NE Pacific,21,93,142,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/CC1708SR_CO_SB04_170802_230000_second_3240_to_3300.png,B NE Pacific,289,93,400,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111017_181445_second_0_to_60.png,40Hz,482,67,497,92
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111017_181445_second_30_to_90.png,40Hz,181,67,197,92
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111017_181445_second_330_to_390.png,40Hz,539,54,553,96
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111017_181445_second_360_to_420.png,40Hz,238,54,252,96
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_270_to_330.png,A NE Pacific,339,62,472,74
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_300_to_360.png,A NE Pacific,38,62,172,74
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_540_to_600.png,20Hz,284,121,304,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_540_to_600.png,20Hz,572,122,590,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_570_to_630.png,20Hz,272,122,290,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_570_to_630.png,20Hz,560,121,584,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_600_to_660.png,20Hz,260,121,283,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_660_to_720.png,20Hz,325,122,343,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111018_001619_second_690_to_750.png,20Hz,25,122,43,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111021_165909_second_210_to_270.png,B NE Pacific,336,98,468,140
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111021_165909_second_240_to_300.png,B NE Pacific,35,98,168,140
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111023_012213_second_150_to_210.png,D,472,93,494,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111023_012213_second_180_to_240.png,D,171,93,193,117
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111024_195110_second_90_to_150.png,20Hz,482,119,502,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111024_195110_second_120_to_180.png,20Hz,181,119,201,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111024_195110_second_270_to_330.png,20Hz,368,120,389,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111024_195110_second_300_to_360.png,20Hz,67,120,89,134
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_000344_second_360_to_420.png,40Hz,503,70,517,91
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_000344_second_390_to_450.png,40Hz,203,70,216,91
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_000344_second_870_to_930.png,40Hz,552,80,565,105
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_000344_second_900_to_960.png,40Hz,252,80,264,105
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_005827_second_300_to_360.png,40Hz,365,90,380,108
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_005827_second_330_to_390.png,40Hz,65,90,79,108
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_005827_second_570_to_630.png,D,368,92,393,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_005827_second_600_to_660.png,D,67,92,92,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_011642_second_0_to_60.png,D,378,104,395,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_011642_second_30_to_90.png,D,77,104,94,128
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_011642_second_450_to_510.png,40Hz,388,81,398,97
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/DIFAR20111025_011642_second_480_to_540.png,40Hz,88,81,98,97
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB12-060209-184000_second_240_to_300.png,40Hz,510,110,526,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB12-060209-184000_second_240_to_300.png,40Hz,510,110,526,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB12-060209-184000_second_270_to_330.png,40Hz,210,110,226,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB12-060209-184000_second_270_to_330.png,40Hz,210,110,226,129
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB17_20110414_180439_second_120_to_180.png,D,414,74,440,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB17_20110414_180439_second_150_to_210.png,D,113,74,139,119
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB17_20110414_180439_second_570_to_630.png,D,536,59,563,109
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB17_20110414_180439_second_600_to_660.png,D,235,59,262,109
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB4-060206-185000_second_450_to_510.png,40Hz,534,87,548,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB4-060206-185000_second_450_to_510.png,40Hz,534,87,548,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB4-060206-185000_second_480_to_540.png,40Hz,234,87,248,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB4-060206-185000_second_480_to_540.png,40Hz,234,87,248,115
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB60_20110427_014707_second_270_to_330.png,40Hz,548,84,564,102
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB60_20110427_014707_second_300_to_360.png,40Hz,248,84,263,102
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB60_20110427_014707_second_300_to_360.png,40Hz,448,95,462,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB60_20110427_014707_second_330_to_390.png,40Hz,148,95,162,120
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB7-060207-164000_second_60_to_120.png,20Hz,546,125,570,138
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB7-060207-164000_second_90_to_150.png,20Hz,246,125,270,138
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB7-060207-165000_second_90_to_150.png,20Hz,319,126,350,138
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB7-060207-165000_second_120_to_180.png,20Hz,19,126,50,138
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-181048_second_240_to_300.png,40Hz,328,96,343,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-181048_second_240_to_300.png,40Hz,328,96,343,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-181048_second_270_to_330.png,40Hz,28,96,42,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-181048_second_270_to_330.png,40Hz,28,96,42,123
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-182000_second_0_to_60.png,40Hz,515,83,530,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-182000_second_30_to_90.png,40Hz,214,83,230,122
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-191000_second_390_to_450.png,40Hz,410,88,424,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-191000_second_420_to_480.png,40Hz,110,88,124,130
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-192000_second_480_to_540.png,40Hz,362,81,379,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-192000_second_510_to_570.png,40Hz,62,81,78,124
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-192000_second_510_to_570.png,40Hz,413,83,430,125
+C:/Users/User/OneDrive/Desktop/Feature_Filtration/raw_sonobuoy_images/SB9-060208-192000_second_540_to_600.png,40Hz,113,83,129,125
